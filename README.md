@@ -1,0 +1,2 @@
+# Script-SG
+{WAITMS60}{MWDN}{WAITMS60}{MWUP}
